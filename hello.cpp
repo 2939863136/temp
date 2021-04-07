@@ -4,6 +4,6 @@
 int main(int argc, char const *argv[])
 {
     /* code */
-    printf("Hello12341World\r\n");
+    printf("HelloWorld\r\n");
     return 0;
 }
